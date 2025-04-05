@@ -6,4 +6,4 @@ Developed a web-based spreadsheet application with a user-friendly interface sim
 ✅ File Upload & Download – Import/export spreadsheets seamlessly.
 ✅ User-friendly UI – Intuitive design with toolbar controls for easy accessibility.
 
-Built using React, Firebase, and modern web technologies, ensuring a smooth and responsive user experience.
+Built using React, Firebase, and modern web technologies, ensuring a smooth and responsive user experience
